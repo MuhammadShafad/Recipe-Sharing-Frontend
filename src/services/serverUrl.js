@@ -1,1 +1,1 @@
-export const serverUrl='https://recepie-server-g6dy.onrender.com'
+export const serverUrl='https://recipe-sharing-backend-96a9.onrender.com'
